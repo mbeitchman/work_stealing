@@ -1,0 +1,5 @@
+C:\Users\marcbei\Desktop\Assignment1\Assignment1\bin\Release\Assignment1.exe
+C:\Users\marcbei\Desktop\Assignment1\Assignment1\bin\Release\Assignment1.pdb
+C:\Users\marcbei\Desktop\Assignment1\Assignment1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\marcbei\Desktop\Assignment1\Assignment1\obj\x86\Release\Assignment1.exe
+C:\Users\marcbei\Desktop\Assignment1\Assignment1\obj\x86\Release\Assignment1.pdb

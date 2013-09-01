@@ -1,0 +1,32 @@
+0.4
+0
+1
+0
+1
+1
+0
+1
+1
+1
+0.5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+        One Sample t-test
+
+data:  x 
+t = 3.3503, df = 19, p-value = 0.003361
+alternative hypothesis: true mean is not equal to 0 
+95 percent confidence interval:
+ 0.1294699 0.5605301 
+sample estimates:
+mean of x 
+    0.345 
+
